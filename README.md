@@ -1,1 +1,1 @@
-# facebook-clone
+# Amazon-clone
